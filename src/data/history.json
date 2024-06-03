@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Divisi Sosial Media",
+      "organisation": "Kejar Mimpi",
+      "startDate": "Januari, 2023",
+      "endDate": "Sekarang",
+      "experiences": ["Desain segala pamflet acara", "Dokumentasi semua kegiatan"],
+      "imageSrc": "history/Logo-KM MATARAM.png"
+    },
+    {
+      "role": "UI Designer",
+      "organisation": "Badan Pusat Statistika Provinsi Nusa Tenggara Barat",
+      "startDate": "Februari, 2024",
+      "endDate": "April, 2024",
+      "experiences": ["Figma", "Desain UI website peminjaman BMN"],
+      "imageSrc": "history/bps.png"
+    },
+    {
+      "role": "Asisten Praktikum Algoritma Pemrograman Dasar",
+      "organisation": "Universitas Mataram",
+      "startDate": "Maret, 2023",
+      "endDate": "Juli, 2023",
+      "experiences": [
+        "C++",
+        "Kepemimpinan dan manajemen waktu"
+      ],
+      "imageSrc": "history/unram.png"
+    }
+  ]
+  

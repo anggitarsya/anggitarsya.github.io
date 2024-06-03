@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Skill+ Website Edukasi",
+    "imageSrc": "projects/skill.jpg",
+    "description": "Project ini merupakan webstie untuk melakukan pelatihan-pelatihan yang berhubungan dengan dunia IT. Dilakukan secara berkelompok",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP"],
+    "source": "https://github.com/anggitarsya/skillplus-website"
+  },
+  {
+    "title": "Image Classification",
+    "imageSrc": "projects/project.png",
+    "description": "Project ini melakukan image classification untuk mendeteksi telur puyuh, telur ayam, dan telur kalkun",
+    "skills": ["Python"],
+    "source": "https://github.com/anggitarsya/python-image-classification"
+  },
+  {
+    "title": "Prototype E-Commerce Opak Nusantara",
+    "imageSrc": "projects/opak.jpg",
+    "description": "Melakukan pembuatan desain UI/UX hingga melakukan  pembuatan prototype website penjualan Opak-Opak khas Lombok Utara",
+    "skills": ["Figma"],
+    "source": "https://www.figma.com/proto/ZFCVuBO4qRSeiT4RTzgaU6/Opak-Nusantara---Crunch-in-Every-Bite?node-id=2200-14518&starting-point-node-id=2200%3A14518"
+  },
+  {
+    "title": "UI/UX Website Layanan Pejemputan Sampah",
+    "imageSrc": "projects/micro.jpg",
+    "description": "Melakukan pembuatan desain UI/UX hingga melakukan  pembuatan prototype Website Layanan Pejemputan Sampah secara berkelompok pada Micro Project - MSIB Infinite Learning",
+    "skills": ["Figma"],
+    "source": "https://www.figma.com/proto/aRo3KgrkhMjdL23r65Wj9f/Genta-Gamelan?node-id=0-1"
+  },
+  {
+    "title": "Website Platform Edukasi dan Informasi Pengelolaan Sampah ",
+    "imageSrc": "projects/massive.jpg",
+    "description": "Membuat Website Platform Edukasi dan Informasi Pengelolaan Sampah pada Massive Project - MSIB Infinite Learning",
+    "skills": ["Figma", "ReactJs", "Tailwind"],
+    "source": "https://www.figma.com/design/VThSrC2Fx1UsSTSTQQ4jUM/Design---EcoSphere?node-id=302-902&t=zBudYGVqbL7JKA3w-0"
+  }
+]
